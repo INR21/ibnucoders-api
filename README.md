@@ -26,7 +26,7 @@
 
 ### CARA INSTALLNYA
 ```bash
-> git clone https://github.com/HAFizh-15/leyscoders-api/
+> git clone https://github.com/INR21/ibnucoders-api/
 > cd leyscoders-api
 > bash install.sh
 > node -r fs.promises index js
@@ -36,12 +36,12 @@
 ## KLO MAU PAKAI JANGAN LUPA DI FORK YA NGAB
 
 # DONASI
-* [`TrakTeer`](https://trakteer.id/chizuru)
+* [`gopay`]( +62 858-0310-7612)
 
 
 ## SOSIAL MEDIA ADMIN
 
-* [`WhatsApp Admin `](https://wa.me/6285959375675)
+* [`WhatsApp Admin `](https://wa.me/628989031500)
 ## THANKS TO
 * [`MHANKBARBAR`](https://github.com/MhankBarBar/termux-wabot)
 
